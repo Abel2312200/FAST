@@ -1,5 +1,6 @@
 package com.example.fast.projet.entities;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 import jakarta.persistence.Entity;
@@ -33,7 +34,7 @@ public class Agency {
 
     private String agencyCode;
 
-    private String angencyName;
+    private String agencyName;
 
     private String agencyMobile;
 

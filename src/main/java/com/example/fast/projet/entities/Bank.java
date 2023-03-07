@@ -32,7 +32,7 @@ public class Bank {
 
     private String bankName;
 
-    private String bankAdress;
+    private String bankAdressHeadOffice;
     
     private Date dateCreated;
 
